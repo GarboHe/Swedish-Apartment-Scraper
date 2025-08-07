@@ -9,7 +9,7 @@ This project is part of a project which is dedicated to analyze Swedish rental m
 - Extracts apartment details such as:
   - Room type
   - Address
-  - Rent type (e.g., student, youth)
+  - Rent type (e.g., studio,corridor)
   - Area, Living space, Rent
   - Moving-in date, Queue days, Floor info
 - Uses `Selenium` to render dynamic content
